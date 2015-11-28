@@ -109,6 +109,8 @@
 <gap:plugin name="cordova-plugin-camera" source="npm" />
 <!-- plugins -->
 
+<gap:plugin name="cordova-plugin-admobpro" source="npm" />
+
 
 <!--waste space plugin start-->
 <!-- <plugin name="Battery" value="org.apache.cordova.BatteryListener" />
